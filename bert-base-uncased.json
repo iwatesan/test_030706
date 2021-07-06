@@ -1,0 +1,272 @@
+{
+    "argument": {
+        "ukpsent": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-ukpsent1_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-ukpsent1_pfeiffer.json"
+        }
+    },
+    "chunk": {
+        "conll2003": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "vblagoje": "bert-base-uncased-conll2003_pfeiffer.json"
+                }
+            },
+            "default": "bert-base-uncased-conll2003_pfeiffer.json"
+        }
+    },
+    "comsense": {
+        "cosmosqa": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-cosmosqa_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-cosmosqa_pfeiffer.json"
+        },
+        "csqa": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-csqa_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-csqa_pfeiffer.json"
+        },
+        "hellaswag": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-hellaswag_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-hellaswag_pfeiffer.json"
+        },
+        "siqa": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-siqa_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-siqa_pfeiffer.json"
+        },
+        "winogrande": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-winogrande_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-winogrande_pfeiffer.json"
+        }
+    },
+    "lingaccept": {
+        "cola": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_lingaccept_cola_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_lingaccept_cola_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_lingaccept_cola_pfeiffer.json"
+        }
+    },
+    "ner": {
+        "conll2003": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-ner-pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-ner-pfeiffer.json"
+        }
+    },
+    "nli": {
+        "cb": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-cb_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-cb_pfeiffer.json"
+        },
+        "multinli": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_multinli_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_multinli_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_nli_multinli_pfeiffer.json"
+        },
+        "qnli": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_qnli_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_qnli_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_nli_qnli_pfeiffer.json"
+        },
+        "rte": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_rte_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_nli_rte_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_nli_rte_pfeiffer.json"
+        },
+        "scitail": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-scitail_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-scitail_pfeiffer.json"
+        },
+        "sick": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-sick_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-sick_pfeiffer.json"
+        }
+    },
+    "pos": {
+        "ldc2012t13": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "vblagoje": "adapters/vblagoje/bert-base-uncased-ldc2012t13_pfeiffer.json"
+                }
+            },
+            "default": "adapters/vblagoje/bert-base-uncased-ldc2012t13_pfeiffer.json"
+        }
+    },
+    "qa": {
+        "boolq": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-boolq_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-boolq_pfeiffer.json"
+        },
+        "squad1": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_qa_squad1_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_qa_squad1_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_qa_squad1_pfeiffer.json"
+        },
+        "squad2": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_qa_squad2_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_qa_squad2_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_qa_squad2_pfeiffer.json"
+        }
+    },
+    "sentiment": {
+        "imdb": {
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased-imdb_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased-imdb_pfeiffer.json"
+        },
+        "sst-2": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sentiment_sst-2_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sentiment_sst-2_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_sentiment_sst-2_pfeiffer.json"
+        }
+    },
+    "sts": {
+        "mrpc": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_mrpc_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_mrpc_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_sts_mrpc_pfeiffer.json"
+        },
+        "qqp": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_qqp_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_qqp_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_sts_qqp_pfeiffer.json"
+        },
+        "stackexchange": {
+            "default": "adapters/ukp/bert-base-uncased_sts_stackexchange_pfeiffer.json",
+            "e12af4d77ed17a6b": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_stackexchange_pfeiffer.json"
+                }
+            }
+        },
+        "sts-b": {
+            "b1017368d7a97b11": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_sts-b_houlsby.json"
+                }
+            },
+            "bb1c8efb82510bed": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-uncased_sts_sts-b_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-uncased_sts_sts-b_pfeiffer.json"
+        }
+    }
+}
